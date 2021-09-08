@@ -20,7 +20,7 @@ export default function Home() {
         <p className={styles.description}>
           Glad you could make it! This part of the site isn't done, but you can access my links through <code className={styles.code}>/g/[githubrepo].</code>More to come!
           <br/><br/>
-					Try it out! Go to <Link href="l.heyrajan.com/g/rewrites"><u>l.heyrajan.com/g/rewrites</u></Link> for this repository!
+					Try it out! Go to <Link href="https://l.heyrajan.com/g/rewrites"><u>l.heyrajan.com/g/rewrites</u></Link> for this repository!
         </p>
 
       </main>
